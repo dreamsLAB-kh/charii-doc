@@ -27,7 +27,15 @@ Important Notes
 
 ### 1. KYC Verified ( know your customer verified )&#x20;
 
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/iPhone 15 Pro Black Titanium Mockup Portrait.png" alt="" width="125"><figcaption></figcaption></figure>
+
+</div>
+
 As a distinguished project owner within our community, your verified account status means you're granted special access to host and showcase your projects. This verification not only signifies a level of trust and authenticity but also opens doors to a world of possibilities. By hosting your projects, you gain the support of a network eager to see your vision come to life. Sell perks to your backers, turning their support into tangible contributions.
+
+<figure><img src="../../.gitbook/assets/Frame 7 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Create and Fill
 

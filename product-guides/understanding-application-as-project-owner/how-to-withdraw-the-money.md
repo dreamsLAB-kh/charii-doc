@@ -32,6 +32,8 @@ Thank you for choosing our platform for your crowdfunding journey. We're here to
 
 Congratulations on successfully completing your project! It's time to withdraw the funds raised. Follow these simple steps to initiate the withdrawal process:
 
+<figure><img src="../../.gitbook/assets/Frame 6.png" alt=""><figcaption><p>Withdraw flow</p></figcaption></figure>
+
 **1. Verify Project Completion**
 
 Ensure that your project has been marked as completed.
