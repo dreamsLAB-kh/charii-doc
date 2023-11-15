@@ -32,6 +32,8 @@ By following these steps, users can seamlessly back a project, support the creat
 
 Here's a step-by-step guide for users on how to buy perks from a project on your platform
 
+<figure><img src="../../.gitbook/assets/Frame 4.png" alt=""><figcaption></figcaption></figure>
+
 **1. Browse Projects**
 
 Log in to your account and navigate to the project listings. Explore the diverse range of projects available on the platform.
