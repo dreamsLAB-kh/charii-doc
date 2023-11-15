@@ -32,7 +32,7 @@ By following these steps, users can seamlessly back a project, support the creat
 
 Here's a step-by-step guide for users on how to buy perks from a project on your platform
 
-<figure><img src="../../.gitbook/assets/Frame 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Frame 7.png" alt=""><figcaption><p>Buy perk flow </p></figcaption></figure>
 
 **1. Browse Projects**
 
