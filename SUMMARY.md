@@ -18,6 +18,10 @@
   * [👜 How to back the project](product-guides/understanding-application-as-project-backer/how-to-back-the-project.md)
   * [🎆 How to check and claim perk ](product-guides/understanding-application-as-project-backer/how-to-check-and-claim-perk.md)
 
+## Privacy Policy
+
+* [Privacy Policy](privacy-policy/privacy-policy.md)
+
 ## Fundamentals
 
 * [🛠 Getting set up](fundamentals/getting-set-up/README.md)
