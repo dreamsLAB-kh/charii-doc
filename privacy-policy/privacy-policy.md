@@ -52,11 +52,11 @@ We will use the information we receive only for the purpose that are described i
 
 ## 6. Is Your Information Transferred Internationally ?&#x20;
 
-In Short : We may transfer, store, and process your information in countries other than your own. We will take all necessary measures to protect your personal information with this privacy notice and applicable law.
+**In Short** : We may transfer, store, and process your information in countries other than your own. We will take all necessary measures to protect your personal information with this privacy notice and applicable law.
 
 ## 7. How Long Do We Keep Your Information ?
 
-In Short : We keep your information for as long as necessary to fulfill the purpose outlined in this privacy notice unless otherwise required by law.
+**In Short** : We keep your information for as long as necessary to fulfill the purpose outlined in this privacy notice unless otherwise required by law.
 
 We will only keep your personal information for as long as it is necessary for the purpose set out in this privacy notice, unless a longer retention period is required or permitted by law. (such as tax, accounting, or other legal requirements).
 
@@ -64,13 +64,13 @@ When we have no ongoing legitimate business need to process your personal inform
 
 ## 8. Do We Collect Information From Minors ?
 
-In Short : We do not knowingly collect data from or market to children under 18 years of age.
+**In Short** : We do not knowingly collect data from or market to children under 18 years of age.
 
 We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the Services. If we learn that personal information from users less than 18 years of ages has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please <mark style="color:blue;">contact us</mark>.
 
 ## 9. What Are Your Privacy Rights?
 
-In Short : You may review, change, or terminate your account at any time .
+**In Short** : You may review, change, or terminate your account at any time .
 
 Withdrawing your consent : If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact detail provided in the section <mark style="color:blue;">contact us</mark>.
 
@@ -86,7 +86,7 @@ Most web browser and some mobile operating systems and mobile applications inclu
 
 ## 11. Do We Make Updates To This Notice?
 
-In Short : Yes, we will update this notice as necessary to stay compliant with relevant laws.
+**In Short** : Yes, we will update this notice as necessary to stay compliant with relevant laws.
 
 We may update this privacy notice from time to time. The update version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it ias accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.&#x20;
 
