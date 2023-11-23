@@ -90,14 +90,16 @@ Most web browser and some mobile operating systems and mobile applications inclu
 
 We may update this privacy notice from time to time. The update version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it ias accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.&#x20;
 
-## 12. How Can You Contact Us About This Notice?
+## 12. How Can You Review, Update Or Delete The Data We Collect From You?
+
+You may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please <mark style="color:blue;">contact us</mark>.
+
+## 13. How Can You Contact Us About This Notice?
 
 If you have questions or comments about this notice, you may contact us by post at :&#x20;
 
 <mark style="color:blue;">info@dreamslab.dev</mark>
 
-## 13. How Can You Review, Update Or Delete The Data We Collect From You?
-
-You may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please <mark style="color:blue;">contact us</mark>.
-
 <table><thead><tr><th width="147">Version</th><th>Approved by</th><th width="172">Approved Date</th><th>Description of Change</th></tr></thead><tbody><tr><td>1.0</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+Effective Date November 11, 2023
