@@ -46,7 +46,7 @@ We may need to share your personal information in the following situations:
 * **Affiliates** : We may share your information with our affiliates, in which case we will require those affiliates honor this privacy notice. Affiliates include our parent company and any subsidiaries, joint venture partners, or other companies that we control or that are under common control with us.
 * **Business Partners** : We may share your information with our business partner to offer you certain product, services, or promotions
 
-## 5. How Do We Handle Your Social Logins ? note note&#x20;
+## 5. How Do We Handle Your Social Logins ? &#x20;
 
 We will use the information we receive only for the purpose that are described in this privacy notice that are otherwise made clear to you on the relevant Services. Please note that we do not control, and are not responsible for.&#x20;
 
@@ -99,3 +99,5 @@ If you have questions or comments about this notice, you may contact us by post 
 ## 13. How Can You Review, Update Or Delete The Data We Collect From You?
 
 You may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please <mark style="color:blue;">contact us</mark>.
+
+<table><thead><tr><th width="147">Version</th><th>Approved by</th><th width="172">Approved Date</th><th>Description of Change</th></tr></thead><tbody><tr><td>1.0</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
