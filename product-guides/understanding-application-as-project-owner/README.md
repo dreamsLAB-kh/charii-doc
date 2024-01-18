@@ -18,10 +18,10 @@ layout:
 
 # 📎 Understanding Application as Project Owner
 
-{% content-ref url="how-to-create-the-project.md" %}
-[how-to-create-the-project.md](how-to-create-the-project.md)
+{% content-ref url="how-to-update.md" %}
+[how-to-update.md](how-to-update.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-withdraw-the-money.md" %}
-[how-to-withdraw-the-money.md](how-to-withdraw-the-money.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

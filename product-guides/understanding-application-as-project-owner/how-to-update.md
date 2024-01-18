@@ -16,36 +16,64 @@ layout:
     visible: true
 ---
 
-# 💰 How to Update&#x20;
+# 📖 How to create the project&#x20;
 
 {% hint style="warning" %}
 Important Notes
 
-* It's really important to update every step and progression to your customer to gain their trust .
+* Make sure your account if Verified
+* Put a clear , detail purpose of the project and delivery as promised.
 {% endhint %}
 
-### Withdrawing Funds: A Step-by-Step Guide&#x20;
+### 1. Go to Menu&#x20;
 
-Congratulations on successfully completing your project! It's time to withdraw the funds raised. Follow these simple steps to initiate the withdrawal process:
+Navigate to the menu section of the application.
 
-<figure><img src="../../.gitbook/assets/Frame 6.png" alt=""><figcaption><p>Withdraw flow</p></figcaption></figure>
+<div align="left">
 
-**1. Verify Project Completion**
+<figure><img src="../../.gitbook/assets/7.jpg" alt="" width="295"><figcaption></figcaption></figure>
 
-Ensure that your project has been marked as completed.
+</div>
 
-**1.1** **Fill in Bank Information**
+### 2. Pick Your Ongoing Project
 
-Select your project , before initiating the withdrawal process, you need to provide your bank information. Navigate to the "Bank Information" such as account number , holder name and active phone number.
+Select the project you are currently working on from the list.
 
-**1.2 Request withdrawal**
+<div align="left">
 
-Once your bank information is updated, go to the "Withdraw Funds" section. Click on the "Request Withdrawal" button.
+<figure><img src="../../.gitbook/assets/8.jpg" alt="" width="295"><figcaption></figcaption></figure>
 
-**1.3 Review Withdrawal Details**
+</div>
 
-Before confirming the withdrawal, review the details to ensure accuracy. Check the withdrawal amount, bank information, and any applicable fees.
+**2.1 Click on Update**
 
-**1.4 Manual Processing**
+Access the update feature within the project interface.
 
-After your withdrawal request is submitted, **Charii** will manually process it. This may take a few business days. You'll receive email notifications regarding the status of your withdrawal.
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/9.jpg" alt="" width="295"><figcaption></figcaption></figure>
+
+</div>
+
+**2.2 Write Header and Title of the Update**&#x20;
+
+* Enter a concise and descriptive header that summarizes the essence of your update .
+* Provide a compelling title that captures the main focus or achievement.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/10.jpg" alt="" width="295"><figcaption></figcaption></figure>
+
+</div>
+
+*
+
+**2.3 Post Update**
+
+Click on " Post " button to share your update with everyone .
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/11.jpg" alt="" width="295"><figcaption></figcaption></figure>
+
+</div>
