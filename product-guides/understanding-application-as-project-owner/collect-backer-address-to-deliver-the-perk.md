@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# ✈ How to deliver the perk
+# ✈ Collect backer address to deliver the perk
 
 {% hint style="warning" %}
 Important Notes
@@ -24,25 +24,27 @@ Important Notes
 * Maintain clear and open communication with the **Charii** team throughout the process.
 * Provide accurate and detailed information to facilitate smooth perk delivery.
 * Collaborate closely with the **Charii** team to address any challenges or changes in the delivery plan.
-
-By entrusting the **Charii** team with the physical delivery of perks, you can streamline the process and ensure that backers receive their perks through a managed and coordinated effort. If you have any questions or encounter challenges during this process, the **Charii** team will be your main point of contact for assistance and support.
 {% endhint %}
+
+## Collect Backer Address
+
+For the **backer address** for now **Project Owners** need to **contact** to **Charii team** directly for the file of **backers** information .
 
 ### Manual Perk Delivery Process&#x20;
 
 Here's a guide on how project owners can manually deliver perks to users after the withdrawal process has been initiated
 
-**1. Charii Team-Managed Perk Delivery Process**
+**1. Project Owner Will Managed Perk Delivery Process**
 
-Upon confirmation of the approved withdrawal, **Charii** team to initiate the manual perk delivery process
+Upon confirmation of the approved withdrawal, **Project Owner** have to initiate the manual perk delivery process
 
 **1.1** **Packaging and Handover**
 
-Carefully pack all perks and deliver them to the **Charii** team. Provide any necessary documentation, such as packing lists or special handling instructions.
+Carefully pack all perks and deliver them to the **Backers** . Provide any necessary documentation, such as packing lists or special handling instructions.
 
 **1.2 Backer Communication**
 
-Keep the **Charii** team informed about any updates or changes in the delivery plan. They will handle direct communication with backers, providing shipping details and expected delivery times.
+**Project Owner** need to Keep the **Charii** team and **Backers** informed about any updates or changes in the delivery plan. **Owner** will handle direct communication with backers, providing shipping details and expected delivery times.
 
 **1.3 Completion Confirmation**
 

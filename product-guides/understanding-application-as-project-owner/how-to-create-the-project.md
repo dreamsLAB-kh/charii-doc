@@ -25,66 +25,55 @@ Important Notes
 * Put a clear , detail purpose of the project and delivery as promised.
 {% endhint %}
 
-### 1. KYC Verified ( know your customer verified )&#x20;
+### 1. Go to Menu&#x20;
+
+Navigate to the menu section of the application.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/iPhone 15 Pro Black Titanium Mockup Portrait.png" alt="" width="125"><figcaption><p>Verified account sample</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7.jpg" alt="" width="295"><figcaption></figcaption></figure>
 
 </div>
 
-As a distinguished project owner within our community, your verified account status means you're granted special access to host and showcase your projects. This verification not only signifies a level of trust and authenticity but also opens doors to a world of possibilities. By hosting your projects, you gain the support of a network eager to see your vision come to life. Sell perks to your backers, turning their support into tangible contributions.
+### 2. Pick Your Ongoing Project
 
-<figure><img src="../../.gitbook/assets/Frame 7 (1).png" alt=""><figcaption><p>Create project flow</p></figcaption></figure>
+Select the project you are currently working on from the list.
 
-### 2. Create and Fill
+<div align="left">
 
-Creating a project on our platform is a straightforward yet crucial process that ensures transparency, accuracy, and a smooth experience for both project owners and backers. Here's a step-by-step guide on how to create and manage a project:
+<figure><img src="../../.gitbook/assets/8.jpg" alt="" width="295"><figcaption></figcaption></figure>
 
-**2.1 Account Verification**
+</div>
 
-First and foremost, ensure that your account is verified by the admin to gain project hosting privileges.
+**2.1 Click on Update**
 
-**2.2 Access Project Creation Interface**
+Access the update feature within the project interface.
 
-Once verified, log in to your account and access the project creation interface.
+<div align="left">
 
-**2.3 Fill in Project Information**
+<figure><img src="../../.gitbook/assets/9.jpg" alt="" width="295"><figcaption></figcaption></figure>
 
-Provide comprehensive project details, leaving no room for ambiguity. Include clear information on your project's purpose, goals, and the impact it aims to make.
+</div>
 
-**2.4 Deadline and Timeline**
+**2.2 Write Header and Title of the Update**&#x20;
 
-Specify an exact project deadline to set clear expectations for backers. Outline a realistic timeline, detailing milestones and expected completion dates.
+* Enter a concise and descriptive header that summarizes the essence of your update .
+* Provide a compelling title that captures the main focus or achievement.
 
-**2.5 Project Showcase**
+<div align="left">
 
-Craft a compelling project showcase, using multimedia elements like images and videos to give backers a vivid understanding of your vision.
+<figure><img src="../../.gitbook/assets/10.jpg" alt="" width="295"><figcaption></figcaption></figure>
 
-**2.6 Funding Goal**
+</div>
 
-Clearly state the funding goal, indicating the amount required for successful project completion.
+*
 
-**2.7 Perks Creation**
+**2.3 Post Update**
 
-Create enticing perks that backers can purchase to support your project. Clearly outline what each perk entails and the estimated delivery time. Maximum perk creation is 4 , and there's one default perk with 1$ price .
+Click on " Post " button to share your update with everyone .
 
-**2.8 Review Process**
+<div align="left">
 
-Before your project goes live, **Charii** team will review the details to ensure they meet our platform's standards. This step helps maintain the integrity of our community and the trust of our backers.
+<figure><img src="../../.gitbook/assets/11.jpg" alt="" width="295"><figcaption></figcaption></figure>
 
-**2.9 Launch and Manage**
-
-Once approved, launch your project. Regularly manage and monitor your project dashboard, engaging with backers and addressing inquiries promptly.
-
-**2.10** **Progress Updates**
-
-Commit to updating backers regularly on your project's progress. Maintain transparency by sharing achievements, challenges, and any adjustments to the timeline.
-
-**2.11 Delivery Commitment**
-
-Commit to delivering perks as promised within the specified time frame. Failure to do so may result in project postponement and withdrawal restrictions.
-
-**2.12 Post-Project Review**
-
-After project completion, undergo a post-project review to assess outcomes, gather feedback, and celebrate successes.
+</div>
